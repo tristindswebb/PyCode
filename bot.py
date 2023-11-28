@@ -56,7 +56,4 @@ def run_bot():
             
     
             
-        
-    
-    
     client.run(TOKEN)
