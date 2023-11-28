@@ -1,6 +1,9 @@
 In order to run this bot you will need to create a file named config.py and create a token by typing
-TOKEN = "Your token here" - A token can be acquired from registering with the discord API, I suggest following a tutorial :)
-you can then run Main.py and it should work.
+
+TOKEN = "Your token here"  
+
+A token can be acquired from registering with the discord API, I suggest following a tutorial :)
+Once you have that file saved in the same directory as the rest you can then run Main.py and it should work. :)
 
 
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
